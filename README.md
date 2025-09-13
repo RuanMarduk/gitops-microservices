@@ -24,8 +24,7 @@ Este repositório contém os manifestos e configurações necessários para roda
 
   O nó `rancher-desktop` aparece como `Ready` ✅.
 
-![Pods rodando](./images/2025-09-12_10-52.png)
-
+![ArgoCD](./images/2025-09-12_10-51_1.png)
 ---
 
 ### 3. Instalando o ArgoCD
@@ -62,7 +61,7 @@ Este repositório contém os manifestos e configurações necessários para roda
   ```
 * Cria-se a aplicação **Online Boutique** no painel do ArgoCD, apontando para este repositório e a pasta `k8s`.
 
-![ArgoCD](./images/2025-09-12_10-51_1.png)
+![Pods rodando](./images/2025-09-12_10-52.png)
 
 
 ---
