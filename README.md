@@ -26,7 +26,6 @@ Este repositório contém os manifestos e configurações necessários para roda
 
 ![Rancher Desktop](./images/2025-09-12_10-51.png)
 
-![Rancher Desktop](./2025-09-12_10-51.png)
 
 ---
 
@@ -66,7 +65,6 @@ Este repositório contém os manifestos e configurações necessários para roda
 
 ![ArgoCD](./images/2025-09-12_10-51_1.png)
 
-![ArgoCD](./2025-09-12_10-51_1.png)
 
 ---
 
@@ -80,7 +78,6 @@ kubectl get pods
 
 ![Pods rodando](./images/2025-09-12_10-52.png)
 
-![Pods rodando](./2025-09-12_10-52.png)
 
 * Para acessar o frontend, faz-se:
 
