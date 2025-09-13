@@ -24,8 +24,7 @@ Este repositório contém os manifestos e configurações necessários para roda
 
   O nó `rancher-desktop` aparece como `Ready` ✅.
 
-![Rancher Desktop](./images/2025-09-12_10-51.png)
-
+![Pods rodando](./images/2025-09-12_10-52.png)
 
 ---
 
@@ -76,7 +75,7 @@ Este repositório contém os manifestos e configurações necessários para roda
 kubectl get pods
 ```
 
-![Pods rodando](./images/2025-09-12_10-52.png)
+![Online Boutique](./2025-09-12_10-51.png)
 
 
 * Para acessar o frontend, faz-se:
@@ -94,8 +93,7 @@ kubectl get pods
 A aplicação roda localmente no Kubernetes, com gerenciamento via ArgoCD.
 A tela inicial do Online Boutique aparece conforme esperado, mostrando os **Hot Products**.
 
-![Online Boutique](./2025-09-12_10-51.png)
-
+![Rancher Desktop](./images/2025-09-12_10-51.png)
 ---
 
 ## ✅ Conclusão
